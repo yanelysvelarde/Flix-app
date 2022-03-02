@@ -31,4 +31,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src=http://g.recordit.co/ccVFbsVKbt.gif width=250><br>
 
 ### Notes
-The most complicated thing is to search for Ids for similar movies about superheroes, I still have to learn how to use the database API because I found only a few of the same genre.
+The most complicated thing is to search for Ids for similar movies about superheroes,
+I still have to learn how to use the database API because I found only a few of the same genre.
+I also passed it from an Iphone 7 to 11 because I had some problems with the display when using the Iphone 7.
